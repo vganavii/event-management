@@ -1,0 +1,26 @@
+The System Requirements Specification (SRS) for an Event Management System outlines the necessary features, functionalities, and technical requirements for creating a platform that helps event organizers manage and run events efficiently. The document includes:
+
+Introduction: Describes the purpose and scope of the system, its intended users (event organizers, attendees), and key functionalities (event creation, registration, scheduling, etc.).
+
+Overall Description: Provides an overview of the system’s functions, user roles (admin, event manager, attendee), operating environment, constraints, and assumptions.
+
+Functional Requirements: Details the specific features such as:
+
+Event creation and management.
+
+Registration and attendee management.
+
+Venue and schedule management.
+
+Payment processing (if applicable).
+
+Notifications and reporting.
+
+Non-Functional Requirements: Focuses on performance, security, usability, scalability, availability, and backup/recovery needs.
+
+External Interfaces: Describes the user interfaces (web-based, responsive), integration with third-party services (payment gateways, email/SMS providers), and hardware/software requirements.
+
+The SRS serves as a roadmap for the development of the Event Management System, ensuring it meets both functional and non-functional goals while providing a seamless experience for organizers and attendees.
+
+
+
